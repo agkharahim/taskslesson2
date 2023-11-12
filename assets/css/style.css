@@ -1,0 +1,41 @@
+*{
+    margin:5px;
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color:grey;
+    text-align: center;
+}
+.class {
+        
+    background-color: white;
+    border:1px solid white;
+    border-radius:30px;
+    width:400px;
+    height: 300px;
+    text-align: left;
+    display: inline-block;
+    border-style: none;
+    margin: auto;
+    padding: 10px 20px;
+    
+
+}
+
+.class h1 {
+    font-size: 40px;
+    margin: auto;
+}
+
+button {
+    background-color:red;
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    margin: auto;
+    width: 130px;
+    height: 40px;
+    text-transform: uppercase;
+}

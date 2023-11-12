@@ -1,0 +1,31 @@
+body {
+    background-color:#1e3585;
+
+}
+
+* {
+    padding:0 ;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.boxes {
+    display: inline-block;
+    text-align: center;
+    background-color:#ffffff;
+    border:1px solid black;
+    border-radius:30px;
+    width: 30%;
+    height: 30%;
+
+}
+
+.boxes h3 {
+    color:black ;
+
+}
+
+h1 {
+    color:white;
+}

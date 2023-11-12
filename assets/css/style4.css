@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@100;500&family=Montserrat:wght@500&family=Roboto+Condensed:ital@0;1&family=Roboto:wght@100&display=swap');
+
+.class {
+    background-color:white;
+    margin: auto;
+    width: 600px;
+    height: 300px;
+    
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}   
+
+.class p {
+    font-weight: 100;
+
+}
+
+button {
+
+    background-color:#11275e;
+    color: #ffffff;
+    padding: 14px 40px;
+}
+
+.line {
+    background-color:#11275e;
+    height: 10px;
+    width:  100px;
+    color:#11275e;
+
+}
